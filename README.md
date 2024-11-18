@@ -3,7 +3,7 @@ I'm Sai Nithin Katta, a passionate Software Engineer. I specialize in both front
 I have a deep interest in ReactJS, Vue.js, Spring Boot, and UI/UX design. I love turning complex problems into intuitive and user-friendly solutions.
 
 🔭 What I'm working on:
-  - Building robust, scalable web applications using modern technologies like ReactJS, Vue.js, and Spring Boot.
+  - Building robust, scalable web applications using modern technologies like ReactJS, Vue.js, NodeJS and Spring Boot.
   - Contributing to open-source projects and improving software quality through testing and code reviews.
 
 🌱 Currently learning:
